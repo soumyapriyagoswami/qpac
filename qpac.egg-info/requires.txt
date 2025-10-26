@@ -1,4 +1,0 @@
-numpy
-
-[:platform_system == "Linux" or platform_system == "Windows"]
-cupy-cuda12x

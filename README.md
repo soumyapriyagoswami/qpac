@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 83272304a7d0ef3e44a7cfc94f8f5aae903e8930
 # QPAC: Quantum-Inspired Pattern-Aware Compression
 
 [![PyPI](https://img.shields.io/pypi/v/qpac)](https://pypi.org/project/qpac/)  
@@ -100,3 +104,7 @@ For full license details, see the [LICENSE](LICENSE) file.
 **Soumyapriya Goswami**  
 📧 Email: [email@Soumyapriya.com](mailto:soumyapriya.goswami.it2023@kgec.ac.in)  
 💻 Project Repository: [GitHub](https://github.com/soumyapriyagoswami/qpac.git)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 83272304a7d0ef3e44a7cfc94f8f5aae903e8930
