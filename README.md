@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # qpac
 This is a open source python library for Quantum-Inspired Pattern-Aware Compression (QPAC) — Hybrid entropy-aware compression inspired by quantum entropy and LZ4
 =======
@@ -104,4 +104,4 @@ For full license details, see the [LICENSE](LICENSE) file.
 **Soumyapriya Goswami**  
 📧 Email: [email@Soumyapriya.com](mailto:soumyapriya.goswami.it2023@kgec.ac.in)  
 💻 Project Repository: [GitHub](https://github.com/soumyapriyagoswami/qpac.git)
->>>>>>> b3712ef (First Commit)
+
