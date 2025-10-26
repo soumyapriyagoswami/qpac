@@ -1,7 +1,4 @@
 
-# qpac
-This is a open source python library for Quantum-Inspired Pattern-Aware Compression (QPAC) — Hybrid entropy-aware compression inspired by quantum entropy and LZ4
-=======
 # QPAC: Quantum-Inspired Pattern-Aware Compression
 
 [![PyPI](https://img.shields.io/pypi/v/qpac)](https://pypi.org/project/qpac/)  
