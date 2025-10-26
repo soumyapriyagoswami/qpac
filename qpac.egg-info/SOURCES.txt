@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+qpac/__init__.py
+qpac/core.py
+qpac/entropy.py
+qpac/strategies.py
+qpac/utils.py
+qpac.egg-info/PKG-INFO
+qpac.egg-info/SOURCES.txt
+qpac.egg-info/dependency_links.txt
+qpac.egg-info/requires.txt
+qpac.egg-info/top_level.txt
+tests/test_roundtrip.py

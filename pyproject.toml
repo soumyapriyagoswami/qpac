@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qpac"
+version = "0.2.1"
+description = "Quantum-Inspired Pattern-Aware Compression (QPAC) — Hybrid entropy-aware compression inspired by quantum entropy and LZ4."
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+  {name = "Soumyapriya Goswami", email = "soumyapriya.goswami.it2023@kgec.ac.in"}
+]
+requires-python = ">=3.8"
+dependencies = ["numpy", "cupy-cuda12x; platform_system=='Linux' or platform_system=='Windows'"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+[project.urls]
+
+Repository = "https://github.com/soumyapriyagoswami/qpac.git"
+
